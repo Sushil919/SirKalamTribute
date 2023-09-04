@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(#fe7519,#fe7519,white,#00CC00, #00CC00 );
+    /* background: linear-gradient(#FFFF00,#FF3300 );
+    background-color:#FF851B; */
+    color:white ;
+}
+h1{
+    font-size: 65px;
+    text-align: center;
+    text-decoration: solid;
+    
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   
+}
+img{
+    border-radius: 50%;
+    width: 500px;
+    height: 400px;
+    max-width: 100%;
+}
+.mid{
+color: blue;
+text-align: right;
+}
+.midd{
+    color: blue;
+}
+.content{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 20px;
+}
